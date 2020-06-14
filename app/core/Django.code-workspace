@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": "..\\.."
+    },
+    {
+      "path": "..\\..\\..\\..\\Django_Basics"
+    },
+    {
+      "path": "..\\..\\..\\..\\Django_REST_Framework"
+    }
+  ]
+}
