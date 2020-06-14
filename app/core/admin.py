@@ -9,5 +9,5 @@ class UserAdmin(BaseUserAdmin):
     ordering = ['id']
     list_display = ['email', 'name']
 
-
+#Register the site
 admin.site.register(models.User, UserAdmin)
